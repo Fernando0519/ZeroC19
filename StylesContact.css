@@ -1,0 +1,30 @@
+.help {
+    max-width: 600px;
+    margin: 4rem auto;
+    width: 90%;
+    font-family: "Raleway", sans-serif;
+    background: #f4f4f4;
+  }
+  .help__title {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 1rem 1.5rem;
+    background: rgba(1, 1, 155, 0.685);
+    color: white;
+    cursor: pointer;
+    transition: .3s ease;
+  }
+  .help__title:hover {
+    background: rgba(28, 148, 218, 0.774);
+  }
+  .help__txt {
+    color: black;
+    line-height: 1.6;
+    font-size: 14px;
+    font-weight: 500;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  body {
+    background: #222;
+  }
